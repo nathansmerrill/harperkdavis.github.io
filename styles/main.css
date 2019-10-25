@@ -1,14 +1,13 @@
 /* change the background color */
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
-.navbar-custom {
+.navbar {
     background-color: #202060;
 }
 
 .navbar-brand {
     color: white !important;
 }
-
 .nav-item {
     color: #202040 !important;
 }
