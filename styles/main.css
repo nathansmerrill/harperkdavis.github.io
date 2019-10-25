@@ -1,0 +1,30 @@
+/* change the background color */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+.navbar-custom {
+    background-color: #202060;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.nav-item {
+    color: #202040 !important;
+}
+
+.nav-link {
+    color: #b030b0 !important;
+}
+.nav-link:hover {
+    color: #602080 !important;
+}
+
+p {
+    color: white;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace !important;
+    background-color: #121224 !important;
+}
